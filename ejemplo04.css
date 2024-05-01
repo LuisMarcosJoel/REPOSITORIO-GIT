@@ -1,0 +1,32 @@
+h1{
+    background-color: aqua;
+    color: yellow;
+    text-align: center;
+
+}
+
+p{
+    color: blueviolet;
+    font-weight: 700;
+font-style: oblique;
+
+}
+.destacados{
+    color: red;
+    font-family: 'Times New Roman';
+
+
+}
+
+#CAJA{
+background-color: antiquewhite;
+width: 400px;
+height: 500px;
+padding: 15px;
+border: 5px salmon;
+box-sizing: border-box;
+border-right: 5px dashed red;
+margin-left: 50px;
+
+
+}
